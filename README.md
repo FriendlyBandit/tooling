@@ -1,6 +1,6 @@
-OS: Windows
-IDE: AstroNvim with neovide
-Shell: nushell
+OS: Windows <br>
+IDE: AstroNvim with neovide <br>
+Shell: nushell <br>
 Tools:
 - mprocs
 - bottom
