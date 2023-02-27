@@ -7,3 +7,7 @@ Tools:
 - ripgrep
 - lazygit
 - Tree-sitter CLI / broot
+
+Videos:
+https://www.youtube.com/watch?v=dFkGNe4oaKk
+https://www.youtube.com/watch?v=ifaLk5v3W90
