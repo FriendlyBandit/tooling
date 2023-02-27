@@ -8,6 +8,6 @@ Tools:
 - lazygit
 - Tree-sitter CLI / broot
 
-Videos:
+Videos: <br>
 https://www.youtube.com/watch?v=dFkGNe4oaKk <br>
 https://www.youtube.com/watch?v=ifaLk5v3W90
