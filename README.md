@@ -7,6 +7,7 @@ Tools:
 - ripgrep
 - lazygit
 - Tree-sitter CLI / broot
+- sccache for cargo
 
 Videos: <br>
 https://www.youtube.com/watch?v=dFkGNe4oaKk <br>
