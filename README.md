@@ -1,13 +1,13 @@
 OS: Windows <br>
-IDE: AstroNvim with neovide <br>
-Shell: nushell <br>
+IDE: AstroNvim with neovide (choco/scoop) <br>
+Shell: nushell (cargo) <br>
 Tools:
-- mprocs
-- bottom
-- ripgrep
-- lazygit
-- Tree-sitter CLI / broot
-- sccache for cargo
+- mprocs (cargo)
+- bottom (cargo)
+- ripgrep (cargo)
+- lazygit (choco/scoop)
+- Tree-sitter CLI (cargo install tree-sitter-cli) / broot (cargo)
+- sccache (cargo)
 
 Videos: <br>
 https://www.youtube.com/watch?v=dFkGNe4oaKk <br>
