@@ -1,5 +1,5 @@
 OS: Windows <br>
-IDE: AstroNvim with neovide (choco/scoop) <br>
+IDE: AstroNvim (choco/scoop) with neovide (cargo)  <br>
 Shell: nushell (cargo) <br>
 Tools:
 - mprocs (cargo)
